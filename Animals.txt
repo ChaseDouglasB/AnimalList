@@ -1,1 +1,12 @@
 Dolphin
+Cat
+Dog
+Bear
+Ant Eater
+Shark
+Fish
+Salmon
+Chicken
+Sheep
+Raven
+Pigeon
